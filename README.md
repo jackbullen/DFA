@@ -15,6 +15,7 @@ Alphabet: a,b
 
 Transitions: {"0":{"a":"1","b":"2"},"1":{"a":"0","b":"2"},"2":{"a":"2","b":"1"}}
 
+![alt text](https://github.com/jackbullen/DFA/blob/main/pics/3state.jpg)
 
 ### Example 2
 Number of states: 5
@@ -25,6 +26,7 @@ Alphabet: a,b
 
 Transitions: {"0":{"a":"1","b":"2"},"1":{"a":"3","b":"4"},"2":{"a":"2","b":"3"},"3":{"a":"4","b":"3"},"4":{"a":"4","b":"4"}}
 
+![alt text](https://github.com/jackbullen/DFA/blob/main/pics/5state.png)
 
 ### Example 3
 Number of states: 14
@@ -48,3 +50,4 @@ Transitions: {"0":{"a":"1","b":"2","c":"3","d":"4","DEL":"5","RES":"6","ADD":"7"
 "12":{"a":"2","b":"3","c":"0","d":"1","DEL":"6","RES":"7","ADD":"4","SUB":"5"},
 "13":{"a":"7","b":"6","c":"5","d":"4","DEL":"3","RES":"2","ADD":"1","SUB":"0"}}
 
+![alt text](https://github.com/jackbullen/DFA/blob/main/pics/25state.jpg)
