@@ -6,7 +6,7 @@ GUI for drawing Deterministic Finite Automatons (DFA). Built with Python librari
  --- | --- | --- |
  GUI input | 0.5 | Improve input for transitions.
  DFA drawing | 0.5 | ...
- DFA analysis | 0 | Compute some basic strings in the language. 
+ DFA analysis | 0 | Find some basic strings in the language. Check if a string is accepted. 
 
 ## Usage
 ./python DFA.py 
