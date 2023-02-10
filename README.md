@@ -1,6 +1,13 @@
 # DFA
 GUI for drawing Deterministic Finite Automatons (DFA) built using Python libraries tkinter and graphviz.
 
+## Features
+ Description | Status | To-do
+ --- | --- | --- |
+ GUI input | 0.5 | Improve input for transitions.
+ DFA drawing | 0.5 | ...
+ DFA analysis | 0 | Compute some basic strings in the language. 
+
 ## Usage
 ./python DFA.py 
 
